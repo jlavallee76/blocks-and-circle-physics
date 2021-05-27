@@ -1,4 +1,4 @@
-# Three.js Journey
+# Block & Sphere Physics Using Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
