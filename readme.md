@@ -1,5 +1,8 @@
 # Block & Sphere Physics Using Three.js
 
+## Try The Project Here!
+https://josh-creates-stuff.netlify.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
